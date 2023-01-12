@@ -93,8 +93,8 @@ ul {
 .container {
     display: flex;
     width: 1140px;
-    padding-left: 165px;
-    padding-right: 165px;
+    padding-left: 150px;
+    padding-right: 150px;
     padding-top: 64px;
     padding-bottom: 64px;
 
