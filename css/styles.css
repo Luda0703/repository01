@@ -197,7 +197,7 @@ ul {
 .wrapper {
     padding-top: 66px;
     width: 453px;
-    margin-left: 133px;
+    margin-left: 137px;
 }
 
 .sobtitle-tree {
@@ -238,6 +238,7 @@ ul {
 .foto-two {
     background-color: #000000;
     border-radius: 12px;
+    margin: 0;
 }
 
 /* SECTION FOUR */
@@ -419,7 +420,7 @@ ul {
     display: block;
     position: absolute;
     margin: 0;
-    top: 45%;
+    top: 40%;
     right: 24px;
     transform: translate(0, -50%); 
 }
